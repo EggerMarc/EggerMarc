@@ -9,11 +9,10 @@ I'm a self taught developer, currently CEO at [EggBasket](https://eggbasket.tech
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-🔭 Though I'm slowly switching to
+🔭 Though I'm slowly working towards more robust and scalable APIs with
 <br><br>
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-for building scalable more robust APIs!
 
 <!--
 **EggerMarc/EggerMarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
