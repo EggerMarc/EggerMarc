@@ -4,16 +4,16 @@
 I'm a self taught developer, currently CEO at [EggBasket](https://eggbasket.tech) and CTO ad [Creology](https://creology.co).
 
 
-:page_with_curl: Most of my work is done in
+⚡ Most of my work is done in
 <br><br>
-![Python](https://img.shields.io/badge/python-%2302569B.svg?style=for-the-badge&logo=python&logoColor=yellow)
-![TypeScript](https://img.shields.io/badge/typescript-%23FFFFFF.svg?style=for-the-badge&logo=typescript)
-![R](https://img.shields.io/badge/R-%23FFFFFF.svg?style=for-the-badge&logo=r)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-:page_with_curl: Though I'm slowly switching to
+🔭 Though I'm slowly switching to
 <br><br>
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+for building scalable more robust APIs!
 
 <!--
 **EggerMarc/EggerMarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
