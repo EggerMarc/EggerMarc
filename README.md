@@ -1,7 +1,7 @@
-## Hey! It's Marc
+## Hey! It's Marc 👋
 ---
 
-I'm a self taught developer, currently CEO at [EggBasket](https://eggbasket.tech) and CTO ad [Creology](https://creology.co).
+I'm a self-taught developer, currently CTO at [Creology](https://creology.co).
 
 
 ⚡ Most of my work is done in
