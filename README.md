@@ -1,8 +1,7 @@
 ## Hey! It's Marc 👋
 ---
 
-I'm a self-taught developer, currently CTO at [Creology](https://creology.co).
-
+I'm a data science enthusiast, developer, and foodie. Currently building cool stuff for [Creology](https://creology.co).
 
 ⚡ Most of my work is done in
 <br><br>
