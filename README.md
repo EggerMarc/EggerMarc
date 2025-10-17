@@ -1,5 +1,4 @@
 ## Hey! It's Marc 👋
----
 
 I'm a data science enthusiast, developer, and foodie. Currently building cool stuff for [Creology](https://creology.co).
 
